@@ -1,0 +1,2 @@
+- 目标：爬取网页中心愿的作者
+    - https://show.ybccode.com/wish/j
