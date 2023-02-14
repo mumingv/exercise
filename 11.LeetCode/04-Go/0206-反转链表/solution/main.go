@@ -4,12 +4,14 @@ import (
 	"github.com/mumingv/golib/leetcode"
 )
 
-func reverseList(head *leetcode.ListNode) *leetcode.ListNode {
+type ListNode = leetcode.ListNode
+
+func reverseList(head *ListNode) *ListNode {
 	if head == nil {
 		return nil
 	}
 
-	var pre *leetcode.ListNode = nil
+	var pre *ListNode = nil
 	p := head
 	for p != nil {
 		temp := p.Next
