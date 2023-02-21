@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
+	"runtime"
 
 	"github.com/mumingv/golib/leetcode"
 	"github.com/mumingv/gotest"
 )
 
 func main() {
+	fmt.Println(runtime.NumCPU())
 	message := gotest.TestHello("Jay")
 	fmt.Println(message)
 
