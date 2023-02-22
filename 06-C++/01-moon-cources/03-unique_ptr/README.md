@@ -1,0 +1,1 @@
+- Demo of https://en.cppreference.com/w/cpp/memory/unique_ptr

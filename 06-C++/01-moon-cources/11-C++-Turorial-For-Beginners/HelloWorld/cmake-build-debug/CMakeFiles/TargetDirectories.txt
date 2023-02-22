@@ -1,3 +1,0 @@
-/Users/muming/github/mumingv/exercise/06-C++/01-moon-cources/11-C++-Turorial-For-Beginners/HelloWorld/cmake-build-debug/CMakeFiles/HelloWorld.dir
-/Users/muming/github/mumingv/exercise/06-C++/01-moon-cources/11-C++-Turorial-For-Beginners/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/muming/github/mumingv/exercise/06-C++/01-moon-cources/11-C++-Turorial-For-Beginners/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
