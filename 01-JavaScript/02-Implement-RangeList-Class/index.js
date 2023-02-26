@@ -57,14 +57,14 @@ class RangeList {
             const curRange = this.ranges[i];
       
             if (curRange[0] < range[0]) {
-              this.ranges.splice(i, 1, [curRange[0], range[0]]);
-              i++;
+                this.ranges.splice(i, 1, [curRange[0], range[0]]);
+                i++;
             }
       
             if (curRange[1] > range[1]) {
-              this.ranges.splice(i, 1, [range[1], curRange[1]]);
+                this.ranges.splice(i, 1, [range[1], curRange[1]]);
             } else {
-              this.ranges.splice(i, 1);
+                this.ranges.splice(i, 1);
             }
         }
     }
